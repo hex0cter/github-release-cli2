@@ -1,8 +1,8 @@
 {
-  "name": "github-release-cli",
-  "version": "2.0.0",
+  "name": "github-release-cli2",
+  "version": "2.0.1",
   "description": "A command-line tool for managing release assets on a GitHub repository",
-  "homepage": "https://github.com/cheton/github-release-cli",
+  "homepage": "https://github.com/hex0cter/github-release-cli2",
   "author": "Cheton Wu <cheton@gmail.com>",
   "bin": {
     "github-release": "./bin/github-release"
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:cheton/github-release-cli.git"
+    "url": "git@github.com:hex0cter/github-release-cli2.git"
   },
   "license": "MIT",
   "preferGlobal": true,

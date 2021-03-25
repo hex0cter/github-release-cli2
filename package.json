@@ -1,6 +1,6 @@
 {
   "name": "github-release-cli2",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A command-line tool for managing release assets on a GitHub repository",
   "homepage": "https://github.com/hex0cter/github-release-cli2",
   "author": "Cheton Wu <cheton@gmail.com>",

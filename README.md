@@ -1,4 +1,4 @@
-# github-release-cli [![build status](https://travis-ci.org/cheton/github-release-cli.svg?branch=master)](https://travis-ci.org/cheton/github-release-cli)
+# github-release-cli2 [![build status](https://travis-ci.org/cheton/github-release-cli.svg?branch=master)](https://travis-ci.org/cheton/github-release-cli)
 
 Temporary repo before [this bug](https://github.com/cheton/github-release-cli/issues/25) in [upstream](https://github.com/cheton/github-release-cli) is fixed.
 
@@ -10,7 +10,7 @@ A command-line tool for managing release assets on a GitHub repository.
 ## Installation
 
 ```
-npm install -g github-release-cli
+npm install -g github-release-cli2
 ```
 
 ## Command Line Usage
